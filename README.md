@@ -1,1 +1,0 @@
-# tailwind-practise-project
